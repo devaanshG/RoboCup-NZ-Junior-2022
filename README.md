@@ -18,7 +18,7 @@ Jumper Wires | NA  |  $5.72
 Perfboard    |  1  |  $0.50     
 NiCd Battery |  1  |  $11.81      
 
-[Link to list of parts on AliExpress] (https://www.aliexpress.com/p/wishlist/shareReflux.html?groupId=qk3fcGzUnusWz8o%2FhIiAldcbagEDx85s7wd3pLeSDz8%3D)
+[Link to list of parts on AliExpress](https://www.aliexpress.com/p/wishlist/shareReflux.html?groupId=qk3fcGzUnusWz8o%2FhIiAldcbagEDx85s7wd3pLeSDz8%3D)
 
 Note that I don't recommend buying batteries from AliExpress as I have never tried this myself. I just had the battery from an old toy. An alternativ ecould be to get a 4 x AA battery holder and use those instead. Otherwise, any battery that is within 7 - 21 V (Arduino Nano vin pin requirement) will work. Note that the current draw of the car is around 2A (So my 700mAh 6V battery lasts around 20 minutes).
 
@@ -26,7 +26,7 @@ The ultrasonic sensors are all connected to the Arduino Nano board (as shown in 
 
 The motors work in a tank-like configuration, with wheels on the same side moving in the same direction. Turning is achieved by moving the two sides in different directions (E.g . right forward, left back results in a left turn. Vice-versa).
 
-The ultrasonic sensors are strategically positioned to maximise the robots detection range of obstacles. [The diagram below shows the configuration:](images/ultrasonic_diagram)
+The ultrasonic sensors are strategically positioned to maximise the robots detection range of obstacles. The diagram below shows the configuration
 
 
 
