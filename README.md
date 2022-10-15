@@ -24,6 +24,10 @@ NiCd Battery |  1  |  $11.81
 
 Note that I don't recommend buying batteries from AliExpress as I have never tried this myself. I just had the battery from an old toy. An alternativ ecould be to get a 4 x AA battery holder and use those instead. Otherwise, any battery that is within 7 - 21 V (Arduino Nano vin pin requirement) will work. Note that the current draw of the car is around 2A (So my 700mAh 6V battery lasts around 20 minutes).
 
+### Schematic
+![Circuit](https://user-images.githubusercontent.com/104536642/196008855-7942d181-c24c-45bf-b4a3-3296955a5bc7.png)
+
+
 The ultrasonic sensors are all connected to the Arduino Nano board (as shown in schematic), using the single wire configuration using the NewPing library (see code). The 6 sensors use 6 digital pins of the Arduino. The L293D also uses 6 pins, 3 for each side. The L293D is a dual motor controller, but we have 4 motors, so, the two wheels on the same side are connected to the same output of the L293D. N20 motors have a fairly low current draw, so the L293D can handle two motors on one output. 
 
 The motors work in a tank-like configuration, with wheels on the same side moving in the same direction. Turning is achieved by moving the two sides in different directions (E.g . right forward, left back results in a left turn. Vice-versa).
