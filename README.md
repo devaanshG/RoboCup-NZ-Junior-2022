@@ -28,6 +28,7 @@ The ultrasonic sensors are all connected to the Arduino Nano board (as shown in 
 The motors work in a tank-like configuration, with wheels on the same side moving in the same direction. Turning is achieved by moving the two sides in different directions (E.g . right forward, left back results in a left turn. Vice-versa).
 
 The ultrasonic sensors are strategically positioned to maximise the robots detection range of obstacles. The diagram below shows the configuration:
+
 ![Ultrasonic configuration](https://user-images.githubusercontent.com/104536642/195976714-1f2ac451-5c94-4467-a15c-18bc559fe4ef.png)
 
 
