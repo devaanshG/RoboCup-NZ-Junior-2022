@@ -8,7 +8,8 @@ We were going to 3D print it with a Tesla body (based on a Model X). Unfortunate
 
 BOM (Bill of materials) :
 
-Part         | Qty | Cost(each) 
+Part         | Qty | Cost(each)
+-------------|-----|-----------
 Arduino Nano |  1  |  $5.00      
 HC-SR04      |  6  |  $1.42      
 N20 Motor    |  4  |  $4.00      
