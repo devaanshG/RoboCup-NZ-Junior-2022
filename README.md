@@ -1,4 +1,5 @@
-# RoboCup NZ Junior Online 2022 - Devaansh Gupta, William Leader, and David Toman
+# RoboCup NZ Junior Online 2022
+Devaansh Gupta, William Leader, and David Toman
 
 ## Background
 This is the self-driving car (obstacle avoiding) my friends and I made for RoboCup NZ Junior 2022 Online. We came 1st in the self-driving car category amongst years (grades) 9-13.
