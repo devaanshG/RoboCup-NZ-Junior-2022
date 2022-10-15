@@ -29,7 +29,7 @@ The motors work in a tank-like configuration, with wheels on the same side movin
 
 The ultrasonic sensors are strategically positioned to maximise the robots detection range of obstacles. The diagram below shows the configuration:
 
-![Ultrasonic configuration](https://user-images.githubusercontent.com/104536642/195976714-1f2ac451-5c94-4467-a15c-18bc559fe4ef.png)
+![Ultrasonic sensors configuration](https://user-images.githubusercontent.com/104536642/195976834-000d139e-3866-4a0d-9438-a5228222d5a0.png)
 
 
 ## Code
