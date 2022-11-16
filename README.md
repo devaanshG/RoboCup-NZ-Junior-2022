@@ -48,3 +48,5 @@ The code consists of a single switch case statement, which branches off into a f
 
 In the future, I want to make an improved version with the following features:
  - GPS so the car can navigate to a specific location
+ - Bluetooth/WiFi to pass instructions (such as GPS coordinates)
+ - Smoother robot movement (rather than stopping and turning on the spot)
